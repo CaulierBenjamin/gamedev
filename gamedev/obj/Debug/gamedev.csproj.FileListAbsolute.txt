@@ -1,0 +1,6 @@
+E:\programmes\rider\gamedev\gamedev\bin\Debug\gamedev.exe
+E:\programmes\rider\gamedev\gamedev\bin\Debug\gamedev.pdb
+E:\programmes\rider\gamedev\gamedev\obj\Debug\gamedev.csprojAssemblyReference.cache
+E:\programmes\rider\gamedev\gamedev\obj\Debug\gamedev.csproj.CoreCompileInputs.cache
+E:\programmes\rider\gamedev\gamedev\obj\Debug\gamedev.exe
+E:\programmes\rider\gamedev\gamedev\obj\Debug\gamedev.pdb
